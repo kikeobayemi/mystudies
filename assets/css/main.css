@@ -71,6 +71,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+/*Border */
+.boxed {
+  border: 1px solid green ;
+}
+
 /* Basic */
 
 	@-ms-viewport {
