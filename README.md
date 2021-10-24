@@ -1,2 +1,2 @@
 # mystudies
-M.SC Computer Science ePortfolio
+My M.SC Computer Science ePortfolio
